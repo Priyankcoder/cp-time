@@ -1,7 +1,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
+  <a href="#" target="/LICENSE">
     <img alt="License: GNU GPL v3" src="https://img.shields.io/badge/License-GNU GPL v3-yellow.svg" />
   </a>
+    <img alt="Version" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" />
 </p>
 
 > Keep track of time taken while solving problems on various cp/Interview preparation platforms.<br>
@@ -22,7 +23,7 @@
 
 
 
-### ✨ [Demo](https://drive.google.com/file/d/1gycgouq-v9e-JpoVC5CHMvsH4dCwuOfv/view?usp=sharing)
+### ✨ Demo [![cp-time-demo.gif](https://s2.gifyu.com/images/cp-time-demo.gif)](https://gifyu.com/image/Ud76)
 
 ## Features
 
@@ -31,7 +32,7 @@
 2. Single Click on timer to stop and resume it. (Use it whenever you need a break while solving a problem)
 3. Double click to reset the timer.
 4. Double click and hold the timer to drag it, Release the click to place it. (You can put the timer wherever you feel comfortable with it. By default, its position is at bottom left.
-5. I kept the UI minimalistic and 
+5. I kept the UI minimalistic and plain so that user do not get distracted by it.
 ```
 
 ## Usage
@@ -51,10 +52,9 @@
 5. Open chrome browser.
 6. Open this url: **chrome://extensions/**
 7. On the top left corner choose Load unpacked option.
-8. Now, Open the chrome again after closing it. That way chrome will detect 
 8. Select the cp-time folder and click open.
-9. Now, Close and open the chrome browser again.
-9. Tada !! You have successfully installed the extension. 
+9. Now, Open the chrome again after closing it. That way chrome will detect it.
+10. Tada !! You have successfully installed the extension. 
 ## Contribution
 
 ```sh

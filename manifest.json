@@ -4,9 +4,9 @@
   "description": "Keep track of time taken while solving problems on various cp/Interview preparation sites.",
   "version": "1.0.0",
   "icons": {
-    "16": "cp time1.png",
-    "48": "cp time2.png",
-    "128": "cp time3.png"
+    "16": "icons/cp time1.png",
+    "48": "icons/cp time2.png",
+    "128": "icons/cp time3.png"
   },
   "content_scripts": [
     {
@@ -31,9 +31,9 @@
   "page_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "cp time1.png",
-      "48": "cp time2.png",
-      "128": "cp time3.png"
+      "16": "icons/cp time1.png",
+      "48": "icons/cp time2.png",
+      "128": "icons/cp time3.png"
     }
   },
   "permissions": ["activeTab"]
