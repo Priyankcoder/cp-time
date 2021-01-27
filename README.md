@@ -53,6 +53,7 @@
 9. Select the cp-time folder and click open.
 10. Now, Open the chrome again after closing it. That way chrome will detect it.
 11. Tada 🎊 !! You have successfully installed the extension.
+
 [![installation.gif](https://s2.gifyu.com/images/installation.gif)](https://gifyu.com/image/UdV2)
 
 ## ⚡ Contribution
