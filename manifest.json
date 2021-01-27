@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "name": "CP Time",
+  "description": "Keep track of time spend during problem solving on various cp sites.",
+  "version": "1.0.0",
+  "icons": {
+    "16": "cp time1.png",
+    "48": "cp time2.png",
+    "128": "cp time3.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://codeforces.com/*",
+        "https://www.geeksforgeeks.org/*",
+        "https://leetcode.com/*",
+        "https://www.codechef.com/*",
+        "https://onlinejudge.org/*",
+        "https://practice.geeksforgeeks.org/*",
+        "https://www.spoj.com/*",
+        "https://www.hackerearth.com/*",
+        "https://www.hackerrank.com/*",
+        "https://www.topcoder.com/*",
+        "https://arena.topcoder.com/*",
+        "https://atcoder.jp/*"
+      ],
+      "js": ["jquery.js", "jquery-ui.min.js", "content.js"]
+    }
+  ],
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "cp time1.png",
+      "48": "cp time2.png",
+      "128": "cp time3.png"
+    }
+  },
+  "permissions": ["activeTab"]
+}
