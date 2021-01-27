@@ -48,10 +48,12 @@
 4. Wait till the command finish.
 5. Open chrome browser.
 6. Open this url: **chrome://extensions/**
-7. On the top left corner choose Load unpacked option.
-8. Select the cp-time folder and click open.
-9. Now, Open the chrome again after closing it. That way chrome will detect it.
-10. Tada !! You have successfully installed the extension. 
+7. On the top right corner, enable **Developer Mode**.
+8. On the top left corner, choose **Load unpacked** option.
+9. Select the cp-time folder and click open.
+10. Now, Open the chrome again after closing it. That way chrome will detect it.
+11. Tada 🎊 !! You have successfully installed the extension.
+[![installation.gif](https://s2.gifyu.com/images/installation.gif)](https://gifyu.com/image/UdV2)
 
 ## ⚡ Contribution
 If you have any suggestions, feedbacks, improvements and features idea then feel free to make a PR :)
