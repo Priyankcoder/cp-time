@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "CP Time",
-  "description": "Keep track of time spend during problem solving on various cp sites.",
+  "description": "Keep track of time taken while solving problems on various cp/Interview preparation sites.",
   "version": "1.0.0",
   "icons": {
     "16": "cp time1.png",
@@ -22,7 +22,8 @@
         "https://www.hackerrank.com/*",
         "https://www.topcoder.com/*",
         "https://arena.topcoder.com/*",
-        "https://atcoder.jp/*"
+        "https://atcoder.jp/*",
+        "https://acm.timus.ru/*"
       ],
       "js": ["jquery.js", "jquery-ui.min.js", "content.js"]
     }

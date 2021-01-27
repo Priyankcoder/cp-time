@@ -76,56 +76,6 @@ $(document).ready(function(){
   h3.addEventListener("click", toggle);
   h3.addEventListener("dblclick", reset);
 
-//   code to make h3 draggable
-//   dragElement(document.getElementById("h3"));
-//   function dragElement(elmnt) {
-//     var pos1 = 0,
-//       pos2 = 0,
-//       pos3 = 0,
-//       pos4 = 0;
-//     elmnt.onmousedown = dragMouseDown;
-//     function dragMouseDown(e) {
-//       e = e || window.event;
-//       e.preventDefault();
-//       // get the mouse cursor position at startup:
-//       pos3 = e.clientX;
-//       pos4 = e.clientY;
-//       document.onmouseup = closeDragElement;
-//       // call a function whenever the cursor moves:
-//       document.onmousemove = elementDrag;
-//     }
-
-//     function elementDrag(e) {
-//       e = e || window.event;
-//       e.preventDefault();
-//       // calculate the new cursor position:
-//       pos1 = pos3 - e.clientX;
-//       pos2 = pos4 - e.clientY;
-//       pos3 = e.clientX;
-//       pos4 = e.clientY;
-//       // set the element's new position:
-//       const vw =
-//         window.innerWidth ||
-//         document.documentElement.clientWidth ||
-//         document.body.clientWidth;
-//       const vh =
-//         window.innerHeight ||
-//         document.documentElement.clientHeight ||
-//         document.body.clientHeight;
-//       elmnt.style.top = elmnt.offsetTop - pos2 + "px";
-//       elmnt.style.left = elmnt.offsetLeft - pos1 + "px";
-//       elmnt.style.right = vw - (elmnt.style.left + w) + "px";
-//       elmnt.style.bottom = vh - (elmnt.style.top + h) + "px";
-//       console.log(vw);
-//       console.log(vh);
-//     }
-
-//     function closeDragElement() {
-//       // stop moving when mouse button is released:
-//       document.onmouseup = null;
-//       document.onmousemove = null;
-//     }
-//   }
   $("#h3").draggable();
 })
 
