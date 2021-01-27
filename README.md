@@ -1,10 +1,11 @@
-<img alt="Version" src="icons/cp time3.png" /> 
+<img alt="Logo" src="icons/cp time3.png" /> 
 <p> 
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" /> 
   <a href="#" target="/LICENSE">
     <img alt="License: GNU GPL v3" src="https://img.shields.io/badge/License-GNU GPL v3-yellow.svg" />
   </a>
-    <img alt="Version" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" />
+    <img alt="PR-Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+    <img alt="Open Source" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" />
 </p>
 
 > A chrome extension to keep track of time taken while solving problems on various cp/Interview preparation platforms.<br>
@@ -41,7 +42,7 @@
 4. Sometimes, we give unnecessarily more time to a question without realising. You can choose your time limit (mine is 20 - 40 mins depend on the toughness of question). Simply see the editorial/approach after that time limit.
 
 ## 💿 Installation
-1. Star this Repository.
+1. First of all, star this Repository 😄.
 2. Open command line and Change the location  to where you want to store this repository.
 3. Run this command: **git clone https://github.com/Priyankcoder/cp-time.git**
 4. Wait till the command finish.
@@ -64,7 +65,6 @@ If you have any suggestions, feedbacks, improvements and features idea then feel
 * Github: [@Priyankcoder](https://github.com/Priyankcoder)
 * LinkedIn: [@priyankcoder](https://linkedin.com/in/priyankcoder)
 
-## Show your support
-
+## 🤘 Show your support
 Give a ⭐️ to the repository. Happy Coding :)
 
