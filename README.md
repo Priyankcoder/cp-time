@@ -11,7 +11,7 @@
 > A chrome extension to keep track of time taken while solving problems on various cp/Interview preparation platforms.<br>
 
 
-## Works On Below Listed CP/Interview preparation Platforms.
+## 🎯 Works On Below Listed CP/Interview preparation Platforms.
 1. Codeforces
 2. Codechef
 3. Spoj
