@@ -4,7 +4,7 @@
   </a>
 </p>
 
-> Keep track of time taken while solving problems on various cp/Interview preparation sites.<br>
+> Keep track of time taken while solving problems on various cp/Interview preparation platforms.<br>
 
 
 ## Works On Below Listed CP/Interview preparation Platforms.
@@ -30,7 +30,8 @@
 1. Timer will start just after rendering of the problem page.
 2. Single Click on timer to stop and resume it. (Use it whenever you need a break while solving a problem)
 3. Double click to reset the timer.
-4. Double click and hold the timer to drag it, Release the click to place it. (You can put the timer wherever you feel comfortable with it. By default, its position is at bottom left.)
+4. Double click and hold the timer to drag it, Release the click to place it. (You can put the timer wherever you feel comfortable with it. By default, its position is at bottom left.
+5. I kept the UI minimalistic and 
 ```
 
 ## Usage
@@ -71,5 +72,5 @@ If you have any suggestions, feedbacks, improvements and features idea then feel
 
 ## Show your support
 
-Give a ⭐️ if this project helped you! Happy Coding :)
+Give a ⭐️ to the repository. Happy Coding :)
 
