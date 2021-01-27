@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "CP Time",
-  "description": "Keep track of time taken while solving problems on various cp/Interview preparation sites.",
+  "description": "A chrome extension to keep track of time taken while solving problems on various cp/Interview preparation sites.",
   "version": "1.0.0",
   "icons": {
     "16": "icons/cp time1.png",
