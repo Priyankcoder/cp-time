@@ -12,18 +12,18 @@
 
 
 ## 🎯 Pop-up and Works On Below Listed CP/Interview preparation Platforms.
-1. Codeforces
-2. Codechef
-3. Spoj
-4. Hackerearth
-5. Hackerrank
-6. Topcoder
-7. UVA OJ
-8. Timus OJ
-9. Atcoder
-10. GeeksForGeeks
+1. Codeforces.
+2. Codechef.
+3. Spoj.
+4. Hackerearth.
+5. Hackerrank.
+6. Topcoder.
+7. UVA OJ.
+8. Timus OJ.
+9. Atcoder.
+10. GeeksForGeeks.
 11. Leetcode.
-12. CSES
+12. CSES.
 
 
 
