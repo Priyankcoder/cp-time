@@ -58,7 +58,7 @@
 [![installation.gif](https://s2.gifyu.com/images/installation.gif)](https://gifyu.com/image/UdV2)
 
 ## ⚡ Contribution
-If you have any suggestions, feedbacks, improvements and features idea then feel free to make a PR :)
+If you have any suggestions, feedbacks, improvements and features ideas then feel free to make a PR :)
 
 ## 🤘 Show your support
 Give a ⭐️ to the repository. Happy Coding :)
