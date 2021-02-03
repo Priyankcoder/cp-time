@@ -23,7 +23,8 @@
         "https://www.topcoder.com/*",
         "https://arena.topcoder.com/*",
         "https://atcoder.jp/*",
-        "https://acm.timus.ru/*"
+        "https://acm.timus.ru/*",
+        "https://cses.fi/problemset/*"
       ],
       "js": ["jquery.js", "jquery-ui.min.js", "content.js"]
     }

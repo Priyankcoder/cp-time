@@ -23,6 +23,7 @@
 9. Atcoder
 10. GeeksForGeeks
 11. Leetcode.
+12. CSES
 
 
 
@@ -58,15 +59,6 @@
 
 ## ⚡ Contribution
 If you have any suggestions, feedbacks, improvements and features idea then feel free to make a PR :)
-
-
-## 🎩 Author
-
-  **Priyank Rastogi** 🦅
-
-* Website: http://priyankcoder.github.io/
-* Github: [@Priyankcoder](https://github.com/Priyankcoder)
-* LinkedIn: [@priyankcoder](https://linkedin.com/in/priyankcoder)
 
 ## 🤘 Show your support
 Give a ⭐️ to the repository. Happy Coding :)
