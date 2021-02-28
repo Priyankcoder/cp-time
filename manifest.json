@@ -24,7 +24,8 @@
         "https://arena.topcoder.com/*",
         "https://atcoder.jp/*",
         "https://acm.timus.ru/*",
-        "https://cses.fi/problemset/*"
+        "https://cses.fi/problemset/*",
+        "https://www.algoexpert.io/*"
       ],
       "js": ["jquery.js", "jquery-ui.min.js", "content.js"]
     }
